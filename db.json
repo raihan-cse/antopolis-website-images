@@ -8,25 +8,18 @@
       "description": "Webdesign (UI & UX) is our historical expertise. We’re constantly seeking to strike the right balance."
     },
     {
-      "id": "1",
+      "id": "2",
       "title": "Techonological Solutions",
       "imgUrl": "https://raw.githubusercontent.com/raihan-cse/antopolis-website-images/bb3be6426656a66b3535e9da093a9ef218621571/digital-exp/tech.svg",
       "imgAlt": "Techonological Solutions",
       "description": "Webdesign (UI & UX) is our historical expertise. We’re constantly seeking to strike the right balance."
     },
     {
-      "id": "1",
+      "id": "3",
       "title": "Content Developement",
       "imgUrl": "https://raw.githubusercontent.com/raihan-cse/antopolis-website-images/bb3be6426656a66b3535e9da093a9ef218621571/digital-exp/content.svg",
       "imgAlt": "Content Developement",
       "description": "Webdesign (UI & UX) is our historical expertise. We’re constantly seeking to strike the right balance."
-    },
-    {
-      "title": "Raihan",
-      "imgUrl": "https://www.google.com",
-      "imgAlt": "google",
-      "description": "This post request are sent for test perpuse",
-      "id": "GOAg-ni"
     }
   ]
 }
